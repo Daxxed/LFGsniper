@@ -2,6 +2,7 @@
 A discord bot to help you find a suitable LFG
 
 Disclaimer:
+
 If someone else knows your token, they can hack into your account and will have full access to all of your Discord account information.
 Using this on a user account is prohibited by the Discord TOS and can lead to the account block.
 I don't take any responsibility for blocked Discord accounts that used this app.
@@ -15,10 +16,10 @@ Setup:
 2. paste it in token.txt
 
 Alternative option of saving the token
-2. open Run(Win+R)
-3. type SystemPropertiesAdvanced and hit enter
-4. open Environment Variables
-5. make a new User Variable with the Name: TOKEN and enter your token as value
+1. open Run(Win+R)
+2. type SystemPropertiesAdvanced and hit enter
+3. open Environment Variables
+4. make a new User Variable with the Name: TOKEN and enter your token as value
 
 
 How to use:
