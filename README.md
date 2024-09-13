@@ -32,7 +32,7 @@ Google how to get your discord user token or by following [this tutorial:](https
 
 
 ## Planned features:
--Keeping track of which LFGs you reacted to
--Eternal notification when LFG is found (play a sound/ping from a secondary discord bot/phone notification)
--Better GUI with images
--Support for other servers/channels
+Keeping track of which LFGs you reacted to.
+Eternal notification when LFG is found (play a sound/ping from a secondary discord bot/phone notification).
+Better GUI with images.
+Support for other servers/channels.
