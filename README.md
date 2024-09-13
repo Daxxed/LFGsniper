@@ -4,10 +4,15 @@ A discord bot to help you find a suitable LFG
 ## Disclaimer:
 
 If someone else knows your token, they can hack into your account and will have full access to all of your Discord account information.
+
 Using this on a user account is prohibited by the Discord TOS and can lead to the account block.
+
 I don't take any responsibility for blocked Discord accounts that used this app.
+
 Changing the react delay to a low number can be very obvious and suspicious.
+
 Careless use may lead to you getting reported and banned from the discord servers you use this on.
+
 USE AT YOUR OWN RISK!!!
 
 
