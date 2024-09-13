@@ -2,7 +2,6 @@
 A discord bot to help you find a suitable LFG
 
 Disclaimer:
-
 If someone else knows your token, they can hack into your account and will have full access to all of your Discord account information.
 Using this on a user account is prohibited by the Discord TOS and can lead to the account block.
 I don't take any responsibility for blocked Discord accounts that used this app.
@@ -11,16 +10,15 @@ Careless use may lead to you getting reported and banned from the discord server
 USE AT YOUR OWN RISK!!!
 
 
-
 Setup:
 1. google how to get your discord user token or by following this tutorial: https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6
 2. paste it in token.txt
+
 Alternative option of saving the token
 2. open Run(Win+R)
 3. type SystemPropertiesAdvanced and hit enter
 4. open Environment Variables
 5. make a new User Variable with the Name: TOKEN and enter your token as value
-
 
 
 How to use:
@@ -29,7 +27,6 @@ How to use:
 3. press Start, you should see your discord ID appear in the list under Discord ID/Listening which confirms that the bot is active
 4. ???
 5. profit
-
 
 
 Planned features:
