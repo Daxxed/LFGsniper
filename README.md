@@ -2,6 +2,7 @@
 A discord bot to help you find a suitable LFG
 
 Disclaimer:
+
 If someone else knows your token, they can hack into your account and will have full access to all of your Discord account information.
 Using this on a user account is prohibited by the Discord TOS and can lead to the account block.
 I don't take any responsibility for blocked Discord accounts that used this app.
