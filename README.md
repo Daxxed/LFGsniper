@@ -11,19 +11,19 @@ Careless use may lead to you getting reported and banned from the discord server
 USE AT YOUR OWN RISK!!!
 
 
-# Setup:
+## Setup:
 First:
 Google how to get your discord user token or by following [this tutorial:](https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6)
 1. Paste it in token.txt
 
-# Alternative option of saving the token
+### Alternative option of saving the token
 1. Open Run(Win+R)
 2. Type SystemPropertiesAdvanced and hit enter
 3. Open Environment Variables
 4. Make a new User Variable with the Name: TOKEN and enter your token as the value
 
 
-# How to use:
+## How to use:
 1. Launch LFGsniper
 2. Check/uncheck the roles/region/content you want to participate in
 3. Press Start, you should see your discord ID appear in the list under Discord ID/Listening which confirms that the bot is active
@@ -31,7 +31,7 @@ Google how to get your discord user token or by following [this tutorial:](https
 5. Profit
 
 
-# Planned features:
+## Planned features:
 -Keeping track of which LFGs you reacted to
 -Eternal notification when LFG is found (play a sound/ping from a secondary discord bot/phone notification)
 -Better GUI with images
