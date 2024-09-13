@@ -1,3 +1,0 @@
-2024-09-13 14:22:10.146020: Control Panel Booted
-2024-09-13 14:22:12.646452: Stopping GUI by closing window
-2024-09-13 14:22:12.663379: Stopping Sniper by closing GUI
