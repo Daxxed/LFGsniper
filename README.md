@@ -36,13 +36,14 @@ Google how to get your discord user token or by following [this tutorial:](https
 ## How to use:
 1. Launch LFGsniper
 2. Check/uncheck the roles/region/content you want to participate in
-3. Press Start, you should see your discord ID appear in the list under Discord ID/Listening which confirms that the bot is active
+3. Press Start, you should see your discord ID appear in the list under Discord ID/Listening confirms the bot is active
 4. ???
 5. Profit
 
 
 ## Planned features:
 - Keeping track of which LFGs you reacted to
-- Eternal notification when LFG is found (play a sound/ping from a secondary discord bot/phone notification)
+- External notification when LFG is found (play a sound/ping from a secondary discord bot/phone notification)
 - Better GUI with images/icons
 - Support for other servers/channels
+- Blacklist for people you do not want to play with
