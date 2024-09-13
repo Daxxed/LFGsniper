@@ -13,8 +13,12 @@ Changing the react delay to a low number can be very obvious and suspicious.
 
 Careless use may lead to you getting reported and banned from the discord servers you use this on.
 
-USE AT YOUR OWN RISK!!!
+**USE AT YOUR OWN RISK!!!**
 
+## Images:
+![Screenshot of the app's UI](/assets/images/Lfgsniperpic.png) ![Screenshot of the bot reacting to a LFG](/assets/images/sniperlfg.png)
+
+![Screenshot of Success screen](/assets/images/dingdong.png)
 
 ## Setup:
 Copy either the source code ( requires python and discord.py-self ) or the standalone folder
