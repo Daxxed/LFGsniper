@@ -17,7 +17,8 @@ USE AT YOUR OWN RISK!!!
 
 
 ## Setup:
-First:
+Copy either the source code ( requires python and discord.py-self ) or the standalone folder
+
 Google how to get your discord user token or by following [this tutorial:](https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6)
 1. Paste it in token.txt
 
